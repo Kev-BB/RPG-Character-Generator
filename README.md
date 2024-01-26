@@ -1,3 +1,5 @@
+This simple Rpg character generator was made as a part of a challenge from my bootcamp.
+
 <!-- Bunun için genel formatı hatırlayın:
 
     const [someStateName, setSomeStateName] = useState(yourValueHere)
